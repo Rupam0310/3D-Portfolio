@@ -1,0 +1,209 @@
+{
+  "personal": {
+    "name": "Rupam Patil",
+    "title": "AI Engineer Who Ships | RAG Pipelines → Production Deployments",
+    "avatar": "🚀",
+    "bio": [
+      "AI Engineer with proven expertise in Python, LLMs, and NLP-driven applications",
+      "Specialized in designing RAG pipelines, prompt engineering, and cloud deployments",
+      "Building systems that actually ship - from prototype to reliable, scalable production solutions",
+      "Started detecting gravitational waves with CNNs at IUCAA, now deploying production AI systems",
+      "Recent wins: Production RAG systems (LangChain + Azure OpenAI), 50% efficiency boost, led 70-member AI community"
+    ],
+    "stats": [
+      { "label": "Efficiency Boost", "value": "50%" },
+      { "label": "Analysis Time Cut", "value": "40%" },
+      { "label": "Community Led", "value": "70+" },
+      { "label": "CGPA", "value": "9.23" }
+    ]
+  },
+  "experience": [
+    {
+      "title": "Associate Data Scientist",
+      "company": "KNAV India",
+      "period": "January 2025 - Present",
+      "description": "Architected and deployed production-ready RAG chatbots using Python (FastAPI), LangChain, and Azure services with PostgreSQL backend, improving policy retrieval efficiency by 50%. Developed and fine-tuned LLM-powered pipelines with prompt engineering and vector search, reducing transaction analysis time by 40%. Implemented foundation models and large language models (Azure OpenAI, TensorFlow) with end-to-end deployment."
+    },
+    {
+      "title": "Intern - IT Operations Analyst",
+      "company": "CrowdStrike",
+      "period": "July 2024 - December 2024",
+      "description": "Designed and implemented AI POCs for IT operations automation using Python, scikit-learn, and cloud services, improving monitoring efficiency by 30%. Engineered NLP-based log analysis pipelines for anomaly detection and pattern recognition, reducing manual monitoring overhead by 20%."
+    },
+    {
+      "title": "Research Intern - LIGO Project",
+      "company": "IUCAA (Inter-University Centre for Astronomy and Astrophysics)",
+      "period": "March 2024 - June 2024",
+      "description": "Applied CNN/LSTM architectures to classify Gravitational Wave signals, achieving improved detection accuracy in noisy datasets. Leveraged PyCBC & Q-transform techniques for time series generation and noise augmentation, enhancing ML-based signal recognition performance."
+    },
+    {
+      "title": "President",
+      "company": "Artificial Intelligence Students Association (AiSA)",
+      "period": "August 2023 - November 2024",
+      "description": "Led a team of 70 members driving impactful initiatives and events. Organized conferences, workshops, and hackathons promoting innovation in AI/ML. Collaborated with executive team to establish strategic goals, oversee operations, and promote sponsor engagement. Enhanced leadership, communication, and project management abilities through community building."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Career Assistant Agent",
+      "description": "Engineered a GenAI Career Assistant using LangChain, LangGraph, and Gemini LLMs, streamlining agent workflows and RAG pipelines to cut query resolution time by 40%. Developed LLM-driven modules for tutorials, resumes, and mock interviews, boosting user engagement by 3× through prompt engineering and vector search. Integrated PostgreSQL and vector databases (Milvus) to enable context-aware AI responses, improving retrieval accuracy by 25% in production tests.",
+      "emoji": "🤖",
+      "tags": ["LangChain", "LangGraph", "Gemini LLM", "RAG", "PostgreSQL", "Milvus"],
+      "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+    },
+    {
+      "name": "Privacy Management in Real-time Videos",
+      "description": "Enhanced real-time video privacy by developing DL-driven object detection pipelines using YOLOv8 and OpenCV, achieving 90% accuracy in masking sensitive regions. Designed a Python-based GUI integrated with ML models, reducing configuration and monitoring time by 40%. Optimized video processing speed by leveraging GPU acceleration, improving efficiency by 2x, ensuring scalability for diverse deployment environments.",
+      "emoji": "🎥",
+      "tags": ["YOLOv8", "OpenCV", "Python", "Deep Learning", "GPU Acceleration", "DRDO"],
+      "gradient": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)"
+    },
+    {
+      "name": "Production RAG Chatbots",
+      "description": "Deployed production RAG chatbots using Azure OpenAI and LangChain with FastAPI backends integrating AI models with enterprise systems. Optimized vector databases (FAISS, Milvus) for semantic search. Built LLM pipelines with prompt engineering achieving 50% improvement in policy retrieval efficiency.",
+      "emoji": "💬",
+      "tags": ["Azure OpenAI", "LangChain", "FastAPI", "Vector DB", "RAG", "Production AI"],
+      "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"
+    },
+    {
+      "name": "ML-based Anomaly Detection",
+      "description": "Created ML-based anomaly detection system for financial transactions with Power BI dashboards for high-volume financial data visualization. Engineered scalable pipelines for real-time transaction monitoring and pattern recognition.",
+      "emoji": "📊",
+      "tags": ["Machine Learning", "Anomaly Detection", "Power BI", "Financial Data", "Real-time"],
+      "gradient": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)"
+    },
+    {
+      "name": "NLP Log Analysis Pipeline",
+      "description": "Engineered NLP-based log analysis pipelines for anomaly detection and pattern recognition at CrowdStrike, reducing manual monitoring overhead by 20%. Implemented automated IT operations monitoring using Python and scikit-learn.",
+      "emoji": "🔍",
+      "tags": ["NLP", "Anomaly Detection", "Python", "scikit-learn", "IT Ops"],
+      "gradient": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)"
+    },
+    {
+      "name": "Gravitational Wave Detection",
+      "description": "Applied CNN/LSTM architectures to classify Gravitational Wave signals at IUCAA's LIGO Project, achieving improved detection accuracy in noisy datasets. Leveraged PyCBC & Q-transform techniques for time series generation and noise augmentation.",
+      "emoji": "🌌",
+      "tags": ["CNN", "LSTM", "Astrophysics", "Signal Processing", "PyCBC", "Research"],
+      "gradient": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)"
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI/ML & LLMs",
+      "items": [
+        { "name": "Large Language Models", "level": 95 },
+        { "name": "Prompt Engineering", "level": 95 },
+        { "name": "RAG Pipelines", "level": 95 },
+        { "name": "LangChain", "level": 90 },
+        { "name": "LangGraph", "level": 90 },
+        { "name": "NLP", "level": 90 },
+        { "name": "TensorFlow", "level": 85 },
+        { "name": "PyTorch", "level": 85 },
+        { "name": "Hugging Face", "level": 85 }
+      ]
+    },
+    {
+      "category": "Programming & Frameworks",
+      "items": [
+        { "name": "Python", "level": 95 },
+        { "name": "FastAPI", "level": 90 },
+        { "name": "REST APIs", "level": 90 },
+        { "name": "Scikit-learn", "level": 85 },
+        { "name": "Pandas", "level": 90 },
+        { "name": "NumPy", "level": 90 }
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        { "name": "Azure", "level": 90 },
+        { "name": "AWS", "level": 85 },
+        { "name": "GCP", "level": 80 },
+        { "name": "MLOps", "level": 85 },
+        { "name": "Cloud Deployments", "level": 90 }
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        { "name": "PostgreSQL", "level": 90 },
+        { "name": "MSSQL", "level": 85 },
+        { "name": "MongoDB", "level": 80 },
+        { "name": "Azure SQL", "level": 85 },
+        { "name": "FAISS", "level": 90 },
+        { "name": "Pinecone", "level": 85 },
+        { "name": "Milvus", "level": 85 },
+        { "name": "Qdrant", "level": 80 }
+      ]
+    },
+    {
+      "category": "Tools & Technologies",
+      "items": [
+        { "name": "Power BI", "level": 90 },
+        { "name": "Linux", "level": 85 },
+        { "name": "GitHub", "level": 90 },
+        { "name": "Cursor AI IDE", "level": 85 },
+        { "name": "OpenCV", "level": 80 },
+        { "name": "YOLOv8", "level": 85 }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology - BTech",
+      "institution": "Vishwakarma Institute of Information Technology (VIIT)",
+      "period": "December 2021 - September 2025",
+      "description": "Artificial Intelligence & Data Science • CGPA: 9.23 • Focus on production AI systems, deep learning, and cloud deployments",
+      "icon": "🎓"
+    },
+    {
+      "degree": "Higher Secondary Education",
+      "institution": "Kids Global Mentor School, Nagpur",
+      "period": "July 2018 - September 2020",
+      "description": "Science Stream • Foundation in Mathematics, Physics, and Computer Science",
+      "icon": "📚"
+    }
+  ],
+  "certifications": [
+    "Python Programming Fundamentals (PPF)",
+    "Microsoft Power BI Certified",
+    "Azure Cloud Services",
+    "Chatbot Development Specialist"
+  ],
+  "contact": {
+    "greeting": "Let's Build Production AI Together",
+    "message": "Always open to discussing RAG pipelines, LLM deployments, and real-world AI solutions. Whether you're looking to collaborate on cutting-edge AI projects or discuss production-ready implementations, feel free to reach out!",
+    "links": [
+      {
+        "icon": "📧",
+        "text": "patilrupam2003@gmail.com",
+        "url": "mailto:patilrupam2003@gmail.com"
+      },
+      {
+        "icon": "📱",
+        "text": "+91 9764646702",
+        "url": "tel:+919764646702"
+      },
+      {
+        "icon": "💼",
+        "text": "LinkedIn",
+        "url": "https://www.linkedin.com/in/rupampatil-470848223"
+      },
+      {
+        "icon": "💻",
+        "text": "GitHub",
+        "url": "https://github.com/rupampatil"
+      },
+      {
+        "icon": "🏆",
+        "text": "HackerRank",
+        "url": "https://www.hackerrank.com/rupampatil"
+      },
+      {
+        "icon": "📍",
+        "text": "Pune, Maharashtra, India",
+        "url": "#"
+      }
+    ]
+  }
+}
