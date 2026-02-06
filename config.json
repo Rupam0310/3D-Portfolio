@@ -175,6 +175,11 @@
     "message": "Always open to discussing RAG pipelines, LLM deployments, and real-world AI solutions. Whether you're looking to collaborate on cutting-edge AI projects or discuss production-ready implementations, feel free to reach out!",
     "links": [
       {
+        "icon": "📄",
+        "text": "Resume",
+        "url": "https://drive.google.com/file/d/17zKo5xfIhFIVe_J8Q2ity0TJ6BgTxPAQ/view?usp=drive_link"
+      },
+      {
         "icon": "📧",
         "text": "patilrupam2003@gmail.com",
         "url": "mailto:patilrupam2003@gmail.com"
@@ -204,6 +209,8 @@
         "text": "Pune, Maharashtra, India",
         "url": "#"
       }
+      
+
     ]
   }
 }
